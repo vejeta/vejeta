@@ -19,9 +19,9 @@ software from the 80s and 90s, and I enjoy bringing old programs back to life.
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello, Planet Debian](https://vejeta.com/en/blog/hello-planet-debian/)
 - [Stremio is finally in the Debian archive](https://vejeta.com/en/blog/stremio-is-finally-in-the-debian-archive/)
 - [XWPE 2026: Software Archaeology of a 1993 Programming Editor](https://vejeta.com/en/blog/xwpe-2026-digital-archaeology-of-a-1993-programming-editor/)
 - [Packaging Stremio&#39;s GTK4 Shell: CEF Integration Adventures](https://vejeta.com/en/blog/packaging-stremios-gtk4-shell-cef-integration-adventures/)
 - [Packaging Chromium Embedded Framework for Debian: A Technical Deep Dive](https://vejeta.com/en/blog/packaging-chromium-embedded-framework-for-debian-a-technical-deep-dive/)
-- [CalDigit Thunderbolt Station 2 Setup Guide for MacBook Pro 11,1 + Debian &lpar;Kali Linux&rpar;](https://vejeta.com/en/blog/caldigit-thunderbolt-station-2-setup-guide-for-macbook-pro-111-debian-kali-linux/)
 <!-- BLOG-POST-LIST:END -->
