@@ -19,9 +19,9 @@ software from the 80s and 90s, and I enjoy bringing old programs back to life.
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Bub&#39;s Brothers: a 21 year old ITP comes back to play](https://vejeta.com/en/blog/the-bubs-brothers-a-21-year-old-itp-comes-back-to-play/)
 - [Hello, Planet Debian](https://vejeta.com/en/blog/hello-planet-debian/)
 - [Stremio is finally in the Debian archive](https://vejeta.com/en/blog/stremio-is-finally-in-the-debian-archive/)
 - [XWPE 2026: Software Archaeology of a 1993 Programming Editor](https://vejeta.com/en/blog/xwpe-2026-digital-archaeology-of-a-1993-programming-editor/)
 - [Packaging Stremio&#39;s GTK4 Shell: CEF Integration Adventures](https://vejeta.com/en/blog/packaging-stremios-gtk4-shell-cef-integration-adventures/)
-- [Packaging Chromium Embedded Framework for Debian: A Technical Deep Dive](https://vejeta.com/en/blog/packaging-chromium-embedded-framework-for-debian-a-technical-deep-dive/)
 <!-- BLOG-POST-LIST:END -->
